@@ -1,5 +1,5 @@
 -- ============================================================
--- ForkIt Database Schema
+-- LetsEat Database Schema
 -- Run this in your Supabase SQL editor (Dashboard > SQL Editor)
 -- ============================================================
 
